@@ -1,0 +1,11 @@
+# Entrada da palavra
+palavra = input()
+
+# Inverte a palavra
+invertida = palavra[::-1]
+
+# Verifica se é um palíndromo
+if palavra == invertida:
+    print("É um palíndromo")
+else:
+    print("Não é um palíndromo")
