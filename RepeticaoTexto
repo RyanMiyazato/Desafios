@@ -1,0 +1,8 @@
+# Recebe a string
+texto = input()
+
+# Recebe o número de repetições
+quantidade = int(input())
+
+# Exibe a string repetida
+print(texto * quantidade)
