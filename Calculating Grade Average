@@ -1,0 +1,9 @@
+#entrada de dados
+dado1 = float(input())
+dado2 = float(input())
+dado3 = float(input())
+
+#tratativa
+media = (dado1 + dado2 + dado3)/3
+
+print(media)
