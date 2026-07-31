@@ -1,0 +1,13 @@
+#entrada de valores
+dado1 = float(input())
+dado2 = float(input())
+
+soma = dado1 + dado2
+subtracao = dado1 - dado2
+divisao = dado1 / dado2
+multiplicacao = dado1 * dado2
+
+print("soma", soma)
+print("subtracao", subtracao)
+print("divisao", divisao)
+print("multiplicacao", multiplicacao)
