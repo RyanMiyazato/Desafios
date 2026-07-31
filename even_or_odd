@@ -1,0 +1,7 @@
+#entrada de valor
+dado = input()
+
+if dado % 2 == 0: 
+  print("par")
+else:
+  print("ímpar")
